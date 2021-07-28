@@ -11,6 +11,8 @@ import ReactForm from "../Views/ReactHookForm";
 const Routes = () => {
   return (
     <Router>
+      <hr />
+
       <Container>
         <Row>
           <Col className="text-center">
